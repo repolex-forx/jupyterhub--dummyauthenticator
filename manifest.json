@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "jupyterhub",
+  "repo": "dummyauthenticator",
+  "versions": [
+    {
+      "commit": "6f0a5ea56fa9ccd47e1462157e13710552a48e7d",
+      "parsed_at": "2026-10-15T10:09:45.408421+00:00",
+      "filetree": "filetree/6f0a5ea56fa9ccd47e1462157e13710552a48e7d.nq.gz",
+      "blobs": [
+        "blob/14212576d729a8737836693bbd7ccc9571455a81.nq.gz",
+        "blob/1dbc687de014ee027b4e6c0d7f2a37ee7636137e.nq.gz",
+        "blob/d3c865164eedb320086fc6d02fe41ee6b9f04a86.nq.gz",
+        "blob/4b425f037c79b86b49e3e99005f3351dec151503.nq.gz",
+        "blob/2761954a27e417245d8fca4abc272fbf819f9b99.nq.gz",
+        "blob/30fd7c34d2b4608a1b710e7bb38eaf26bec95aa2.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
