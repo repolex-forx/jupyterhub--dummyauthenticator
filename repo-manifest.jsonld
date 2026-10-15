@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyterhub/dummyauthenticator/commit/6f0a5ea56fa9ccd47e1462157e13710552a48e7d",
       "git:hexsha": "6f0a5ea56fa9ccd47e1462157e13710552a48e7d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jupyterhub/dummyauthenticator/commit/bae20ddf54cbe793b1aa1c63c948ebe7669fcb24",
